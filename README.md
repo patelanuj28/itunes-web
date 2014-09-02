@@ -26,11 +26,14 @@ http://localhost:8080/api/1.0/itunes/nosh
 
 Version 1.0 is very simple and dirty code :) 
 
-++++++++++++ @TODO ++++++++++++++
-I'll try to clean it up using object oriented way on next version
-Needs to add Frontend using Angular JS & Javascript to control
-Needs to make iphone app that takes IP of the computer and control itunes over rest api
+++++++++++++ @TODO ++++++++++++++ <br />
+1. I'll try to clean it up using object oriented way on next version<br />
+2. Needs to add Frontend using Angular JS & Javascript to control<br />
+3. Needs to make iphone app that takes IP of the computer and control itunes over rest api<br />
+<br /><br /><br />
 
-Contact : 
-Anuj Patel, 
-patelanuj28 [at] gmail.com
+
+
+Contact : <br />
+Anuj Patel, <br />
+patelanuj28 [at] gmail.com<br />
