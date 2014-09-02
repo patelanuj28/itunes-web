@@ -6,23 +6,23 @@ control itunes over rest api using bottle framework
 <br /><br />
 
 Example:<br />
-http://localhost:8080/api/1.0/itunes/status<br />
-http://localhost:8080/api/1.0/itunes/play<br />
-http://localhost:8080/api/1.0/itunes/pause<br />
-http://localhost:8080/api/1.0/itunes/next<br />
-http://localhost:8080/api/1.0/itunes/prev<br />
-http://localhost:8080/api/1.0/itunes/stop<br />
-http://localhost:8080/api/1.0/itunes/quit<br />
-http://localhost:8080/api/1.0/itunes/volume/up<br />
-http://localhost:8080/api/1.0/itunes/volume/down<br />
-http://localhost:8080/api/1.0/itunes/volume/<1-100><br />
-http://localhost:8080/api/1.0/itunes/mute<br />
-http://localhost:8080/api/1.0/itunes/unmute<br />
-http://localhost:8080/api/1.0/itunes/playlist<br />
-http://localhost:8080/api/1.0/itunes/tracks<br />
-http://localhost:8080/api/1.0/itunes/changetracks/<playlist name>/<track name><br />
-http://localhost:8080/api/1.0/itunes/shuf<br />
-http://localhost:8080/api/1.0/itunes/nosh<br />
+GET http://localhost:8080/api/1.0/itunes/status<br />
+GET http://localhost:8080/api/1.0/itunes/play<br />
+GET http://localhost:8080/api/1.0/itunes/pause<br />
+GET http://localhost:8080/api/1.0/itunes/next<br />
+GET http://localhost:8080/api/1.0/itunes/prev<br />
+GET http://localhost:8080/api/1.0/itunes/stop<br />
+GET http://localhost:8080/api/1.0/itunes/quit<br />
+GET http://localhost:8080/api/1.0/itunes/volume/up<br />
+GET http://localhost:8080/api/1.0/itunes/volume/down<br />
+GET http://localhost:8080/api/1.0/itunes/volume/<1-100><br />
+GET http://localhost:8080/api/1.0/itunes/mute<br />
+GET http://localhost:8080/api/1.0/itunes/unmute<br />
+GET http://localhost:8080/api/1.0/itunes/playlist<br />
+GET http://localhost:8080/api/1.0/itunes/tracks<br />
+GET http://localhost:8080/api/1.0/itunes/changetracks/<playlist name>/<track name><br />
+GET http://localhost:8080/api/1.0/itunes/shuf<br />
+GET http://localhost:8080/api/1.0/itunes/nosh<br />
 <br /><br /><br />
 
 Version 1.0 is very simple and dirty code :) <br />
