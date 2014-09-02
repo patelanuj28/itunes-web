@@ -1,4 +1,6 @@
 itunes-web
 ==========
 
-control itunes over rest api
+control itunes over rest api using bottle framework 
+
+
